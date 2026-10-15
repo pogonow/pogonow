@@ -1,6 +1,6 @@
 ### Hey, I'm Paul 👋
 
-3x founder, 2 exits and in B2B marketing since 2008. These days I do growth and GTM for B2B SaaS.
+3x founder and in B2B marketing since 2008. These days I do growth and GTM for B2B SaaS.
 
 I run most of my work on my own AI setup (Claude skills, agents and scheduled runs on an always-on Mac mini) and I put the parts worth sharing on GitHub. Honestly, half of it started as "I'm tired of explaining this to Claude every morning".
 
